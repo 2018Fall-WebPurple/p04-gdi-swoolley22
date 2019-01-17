@@ -1,0 +1,38 @@
+/*
+* Sarah Woolley
+*Due Date
+* Project name and Description
+*/  
+
+/* The Universal Sector*/
+
+*{ 
+
+}
+
+/* Body attributes here*/
+
+
+body{ 
+background-color: #ffcccc
+
+}
+#Girls  { width: 200px; height: 100px
+text align: right, center}
+#logo  { width: 1200px; height: 200px
+text-align: center
+clear: none} 
+#Girls2 { width: 200px; height: 100px; clear:right}
+
+
+text-align: left;}
+
+a:hover, a:focus {
+
+color: deeppink;
+
+text-decoration: underline;}
+
+a:active {
+
+color: darkcyan;}
